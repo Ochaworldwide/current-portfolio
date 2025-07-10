@@ -5,22 +5,22 @@
     "image":"profile.png",
     "bio":"Hello! I'm Lazarus Gabriel, a dedicated and creative Frontend Web Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in React, TailwindCSS, PHP/Laravel, NodeJS/Express, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "praiseike@gmail.com",
-    "phone": "+234 803 233 4874",
-    "github":"https://github.com/praiseike",
-    "project":"https://github.com/praiseike",
+    "email": "lazarusgabriel000@gmail.com",
+    "phone": "+234 9034962596",
+    "github":"https://github.com/Ochaworldwide",
+    "project":"https://github.com/Ochaworldwide",
     "address":{
       "street":"Nwaniba rd, uyo",
       "city":"Uyo",
       "state":"Akwa Ibom",
       "zip": "520101"
     },
-    "website": "https://ibangha-ike.netlify.app",
+    "website": "https://lazarus-gabriel.netlify.app",
     "resumedownload":"https://rxresu.me/praiseike123/praise-ike",
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/praiseike",
+        "url":"https://github.com/Ochaworldwide",
         "className":"fa fa-github"
       },
       {
@@ -30,7 +30,7 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com/praise89897389",
+        "url":"http://twitter.com/iam_westempire",
         "className":"fa fa-twitter"
       }
     ]
@@ -40,23 +40,23 @@
     "education":[
       {
         "school":"University of Uyo",
-        "degree":"Computer Enginering",
-        "graduated":"Sept. 2018 - 2024",
+        "degree":"Computer Science",
+        "graduated":"Sept. 2018 - 2023",
         "description":"Throughout my academic journey in Computer Engineering at the University of Uyo, I've gained a comprehensive understanding of both hardware and software aspects of computing. I've delved into subjects like digital logic design, computer architecture, algorithms, data structures, and operating systems, equipping me with the knowledge to analyze and design complex systems."
       }
     ],
     "work":[
       {
         "company":"Guardup NG",
-        "title":"Snr Backend Developer",
+        "title":"Front-End Developer ",
         "years":"July 2024 - November 2024",
-        "description":"As a Backend Developer at GuardUp, a leading Nigerian security company, I developed and maintained secure, scalable web applications using Laravel. I collaborated with teams to deliver user-friendly solutions, managed databases, integrated APIs, and optimized performance. My work enhanced GuardUp’s digital infrastructure, supporting its mission to provide innovative security services."
+        "description":"As a Front-End Developer at GuardUp, a leading Nigerian security company, I developed and maintained high-quality, user-facing web applications. I collaborated with cross-functional teams to deliver intuitive solutions, integrating frontend components with backend APIs and optimizing for performance and responsiveness. My contributions significantly enhanced GuardUp’s digital presence, supporting its mission to provide innovative security services."
       },
       {
         "company":"PFM.Company",
-        "title":"Full-Stack Developer",
+        "title":"Front-End Developer",
         "years":"November 2023 - January 2024",
-        "description":"At PFM.Company, I seamlessly integrated Bootstrap with Laravel to develop visually appealing and responsive web applications. Leveraging Bootstrap's extensive front-end components, I crafted intuitive user interfaces that provided an exceptional user experience across various devices. Working within the Laravel framework, I implemented robust backend functionalities, ensuring the seamless flow of data and interactions. My responsibilities included designing and developing features, handling data validation, and optimizing performance for optimal user engagement."
+        "description":"At PFM.Company, I seamlessly integrated Bootstrap with Laravel to develop visually appealing and responsive web applications. Leveraging Bootstrap's extensive front-end components, I crafted intuitive user interfaces that provided an exceptional user experience across various devices. My responsibilities included designing and developing features, handling data validation, and optimizing performance for optimal user engagement."
       },
       {
         "company":"SOFROSYN LLC",
@@ -81,24 +81,8 @@
         "level": "100%"
       },
       {
-        "name": "Google Cloud Platform (GCP)",
-        "level": "100%"
-      },
-      {
         "name": "System Design & Implementation",
         "level": "100"
-      },
-      {
-        "name":"PHP/Laravel",
-        "level":"100%"
-      },
-      {
-        "name":"NodeJS/Express",
-        "level":"100%"
-      },
-      {
-        "name":"Python",
-        "level":"60%"
       },
       {
         "name":"ReactJs",
@@ -106,10 +90,6 @@
       },
       {
         "name":"CSS",
-        "level":"100%"
-      },
-      {
-        "name":"PHP",
         "level":"100%"
       },
       {
