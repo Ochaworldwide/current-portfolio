@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Full-Stack Developer",
-    "description":"Hello, I'm Ibangha Ike, a Full Stack Alchemist: Building Tomorrow's Digital Landscape with Precision and Innovation",
+    "name":"Frontend Web Developer",
+    "description":"Hello, I'm Lazarus Gabriel, a Frontend Web Alchemist: Building Tomorrow's Digital Landscape with Precision and Innovation",
     "image":"profile.png",
-    "bio":"Hello! I'm Ibangha Ike, a dedicated and creative Full Stack Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in React, TailwindCSS, PHP/Laravel, NodeJS/Express, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!",
+    "bio":"Hello! I'm Lazarus Gabriel, a dedicated and creative Frontend Web Developer on a mission to bring ideas to life through elegant and efficient code. With a foundation in React, TailwindCSS, PHP/Laravel, NodeJS/Express, and a flair for design, I thrive in turning concepts into seamless digital experiences. Let's build something extraordinary together!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "praiseike@gmail.com",
     "phone": "+234 803 233 4874",
